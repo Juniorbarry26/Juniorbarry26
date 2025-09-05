@@ -9,6 +9,7 @@
 🔐 Aspiring to pursue a **Master’s in Cybersecurity**  
 
 ---
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
