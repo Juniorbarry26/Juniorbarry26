@@ -9,11 +9,6 @@
 🔐 Aspiring to pursue a **Master’s in Cybersecurity**  
 
 ---
-## 🛠️ Tech Stack  
-- **Languages**: Java, Go, C#, Python, JavaScript/TypeScript  
-- **Frameworks**: Spring Boot, Angular, Node.js, NestJS, ASP.NET  
-- **Databases**: PostgreSQL, MySQL, Redis  
-- **DevOps & Cloud**: Docker, Kubernetes, AWS, Git/GitHub, REST APIs  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
