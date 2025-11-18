@@ -6,7 +6,6 @@
 🎓 **Computer Science student** at the University of The Gambia (UTG)  
 💻 **Software Engineer** | Passionate about building scalable full-stack applications  
 🌱 Currently working with **Spring Boot, Angular, Go, Cloud Computing, and DevOps tools**  
-🔐 Aspiring to pursue a **Master’s in Cybersecurity**  
 
 ---
 ## 🛠️ Tech Stack
@@ -21,11 +20,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 </p>
 
 <p align="center">
