@@ -5,7 +5,7 @@
 
 🎓 **Computer Science student** at the University of The Gambia (UTG)  
 💻 **Software Engineer** | Passionate about building scalable full-stack applications  
-🌱 Currently working with **Spring Boot, Angular, Go, Cloud Computing, and DevOps tools**  
+🌱 Currently working with **Spring Boot, Go, Cloud Computing, and DevOps tools**  
 
 ---
 ## 🛠️ Tech Stack
